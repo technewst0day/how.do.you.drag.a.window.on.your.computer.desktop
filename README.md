@@ -1,6 +1,6 @@
 # How do you drag a window to your computer's desktop
 
-[![How do you drag a window to your computer's desktop](gett-stateed.png)](https://computersolve.com/how-to-drag-window-on-computer-desktop/)
+[![How do you drag a window to your computer's desktop](gett-stateed.png)](https://icncomputer.com/how-to-drag-window-on-computer-desktop/)
 
 You can click and hold the Left Click button on the top bar of the window and drag it to the toolbar. Your keyboard is in a horizontal position and has two windows. For example drag the toolbar to this horizontal position using the drag-and-drop utility:
 
